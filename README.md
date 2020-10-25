@@ -2,4 +2,4 @@
 White Panda Assignment
 
 This includes the front end design for the company 'White Panda'
-Use HTML, CSS, Javascript, Bootstrap etc.
+Using HTML, CSS, ES6, Bootstrap etc.
